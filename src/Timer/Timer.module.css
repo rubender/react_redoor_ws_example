@@ -1,0 +1,8 @@
+.root {
+  border:2px dashed orange;
+  padding: 5px;
+  display:inline-flex;
+  margin:5px 0;
+  font-size:2rem;
+  color:#777;
+}
